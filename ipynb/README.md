@@ -31,7 +31,7 @@ This repository contains all practical laboratory exercises, assignments, and ha
 | **Lab 20** | `lab20_pandas_csv_and_data_analysis.ipynb` | Loading CSV Files, Data Cleaning & Exploratory Analysis |
 | **Lab 21** | `lab21_pandas_data_filtering_and_exploration.ipynb` | DataFrame Querying, Filtering Conditions & Data Selection |
 | **Lab 22** | `lab22_pandas_advanced_data_manipulation_and_transformation.ipynb` | GroupBy Operations, Aggregation & Data Transformation |
-| **Lab 23** | `lab23_Matplotlib_Data_Visualization.ipynb` | Data Plotting, Charts & Customizations using Matplotlib |
+| **Lab 23** | `lab23_matplotlib_data_visualization.ipynb` | Data Plotting, Charts & Customizations using Matplotlib |
 | **Lab 24** | `lab24_data_visualization_seaborn.ipynb` | Statistical Graphics, Heatmaps & Distributions using Seaborn |
 | **Lab 25** | `lab25_Data_Visualization_with_Plotly.ipynb` | Interactive Visualizations & Dynamic Charts with Plotly |
 | **Lab 26** | `lab26_Python_Tuples_and_Operations.ipynb` | Immutability, Tuple Packing/Unpacking & Operations |
