@@ -14,10 +14,10 @@ This repository contains all practical laboratory exercises, assignments, and ha
 | **Lab 04** | `lab04_python_data_structures.ipynb` | Core Python Data Structures (Lists, Tuples, Dictionaries, Sets) |
 | **Lab 05** | `lab05_part1_for_loop_basics.ipynb` | Fundamentals of For-Loops & Iteration Controls |
 | **Lab 05** | `lab05_part2_for_loop_advanced.ipynb` | Nested Loops, Range Function & Complex Iterations |
-| **Lab 06** | `lab6_while_loops_and_string_processing.ipynb` | While Loops, Condition Control & Iterative String Parsing |
-| **Lab 07** | `lab7_functions_and_modular_programming.ipynb` | Function Definition, Parameters, Return Values & Scope |
-| **Lab 08** | `lab8_advanced_data_structures_and_dicts.ipynb` | Dictionary Nesting, Key-Value Manipulations & Operations |
-| **Lab 09** | `lab9_exception_handling_and_try_except.ipynb` | Basic Error Handling, `try`, `except` & Error Prevention |
+| **Lab 06** | `lab06_while_loops_and_string_processing.ipynb` | While Loops, Condition Control & Iterative String Parsing |
+| **Lab 07** | `lab07_functions_and_modular_programming.ipynb` | Function Definition, Parameters, Return Values & Scope |
+| **Lab 08** | `lab08_advanced_data_structures_and_dicts.ipynb` | Dictionary Nesting, Key-Value Manipulations & Operations |
+| **Lab 09** | `lab09_exception_handling_and_try_except.ipynb` | Basic Error Handling, `try`, `except` & Error Prevention |
 | **Lab 10** | `lab10_mini_systems_and_logic.ipynb` | Interactive Mini-Systems & Modular Business Logic Implementation |
 | **Lab 11** | `lab11_python_basics_and_math.ipynb` | Mathematical Operations, Built-in Math Functions & Variables |
 | **Lab 12** | `lab12_loops_and_control_flow.ipynb` | Advanced Control Flow, `break`, `continue` & Logical Branching |
