@@ -3,6 +3,7 @@
 Welcome to my repository dedicated to Artificial Intelligence and Data Science applications.
 
 ## 📁 Repository Structure
+### Python , R SQL
 
 * **`Python/`**: Machine learning scripts, data processing, and algorithms.
 * **`ipynb/`**: Interactive Jupyter Notebooks for data analysis and visualization.
