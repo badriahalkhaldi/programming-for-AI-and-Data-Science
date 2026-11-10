@@ -1,5 +1,5 @@
 # 🗄️ SQL Labs Index
-
+### يحتاج اعدل التسمات واعدل الجدول 
 This repository contains all practical laboratory exercises, scripts, and hands-on SQL files for the **AI & Data Science Programming** track.
 
 ---
